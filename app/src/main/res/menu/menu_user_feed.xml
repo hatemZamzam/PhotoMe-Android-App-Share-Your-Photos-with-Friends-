@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hatemzam.app_test.UserFeed">
+    <item android:id="@+id/backToUserList" android:title="@string/backToUserList" app:showAsAction="always" />
+    <item android:id="@+id/chat" android:title="@string/chat" app:showAsAction="always" />
+
+</menu>

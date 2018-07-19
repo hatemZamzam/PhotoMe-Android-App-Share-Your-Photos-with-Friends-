@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test Android Studio App</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">k5u0zQ1NmwnyT8qDhMdXty35IBdFMw0EVtj9Rdb6</string>
+    <string name="back4app_client_key">8nIBKuuaSCy2it39lRNy47Mv1QDz12jyFBU5oYio</string>
+    <string name="title_activity_users_list">UsersList</string>
+    <string name="share">Share</string>
+    <string name="logout">LogOut</string>
+    <string name="backToUserList">Back</string>
+    <string name="title_activity_user_feeds">UserFeeds</string>
+    <string name="chat">chat</string>
+    <string name="profile">profile</string>
+    <string name="favourite">Favourite</string>
+    <string name="feeds">Feeds</string>
+    <string name="users">Users</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+</resources>

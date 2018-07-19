@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <RelativeLayout
+        android:layout_width="385dp"
+        android:layout_height="586dp" tools:layout_editor_absoluteY="8dp"
+        android:layout_marginLeft="13dp"
+        app:layout_constraintLeft_toLeftOf="parent" android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="430dp" android:background="@android:color/holo_blue_dark"
+            tools:layout_editor_absoluteY="0dp" android:layout_marginRight="8dp"
+            app:layout_constraintRight_toRightOf="parent" android:layout_weight="0.19"
+            android:layout_marginTop="5dp" android:id="@+id/linearout1" android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/photoToPost"
+                app:srcCompat="@drawable/addphoto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/photoDescribe" android:layout_weight="1"
+                android:layout_marginTop="20dp" android:layout_marginLeft="10dp"
+                android:background="@android:color/background_light" android:layout_marginRight="10dp"
+                android:hint="Write your Description" android:textAlignment="center"
+                android:layout_marginBottom="7dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="75dp" android:layout_below="@+id/linearout1" android:layout_weight="0.19"
+            android:layout_marginTop="10dp"
+            android:id="@+id/linearout2">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" app:srcCompat="@drawable/effect"
+                android:id="@+id/imageButton10" android:layout_weight="1"/>
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" app:srcCompat="@drawable/effect" android:id="@+id/imageButton9"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" app:srcCompat="@drawable/effect" android:id="@+id/imageButton8"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" app:srcCompat="@drawable/effect" android:id="@+id/imageButton7"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" app:srcCompat="@drawable/effect" android:id="@+id/imageButton6"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" app:srcCompat="@drawable/effect" android:id="@+id/imageButton5"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:layout_below="@+id/linearout2" android:layout_weight="0.19"
+            android:id="@+id/linearout3" android:layout_marginTop="10dp" android:background="@android:color/white">
+            <Button
+                android:text="Cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/button2" android:layout_weight="1"
+                android:background="@android:color/background_dark" android:textColor="@android:color/white"
+                android:textSize="20sp" android:onClick="cancelShare"/>
+            <Button
+                android:text="Post"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/button" android:layout_weight="1"
+                android:background="@android:color/background_dark" android:textColor="@android:color/white"
+                android:textSize="20sp" android:onClick="postPhoto"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
