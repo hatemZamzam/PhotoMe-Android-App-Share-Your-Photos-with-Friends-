@@ -45,6 +45,7 @@ The backend programming and database based on Parse-Server "back4app".
 + "Post" button, to share the selected image with friends,
 + "Cancel" to get back to friends feeds activity without sharing anything.
 + Small camera images to add effects to the selected image (but it hasn't beed done yet searching for nice effects :p :D).
++ "Edit text field" to write description on photo.
 <p align="center">
 <img src = "sharephoto.JPG" width = "300"/>
  </p>
