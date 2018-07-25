@@ -13,7 +13,7 @@ The backend programming and database based on Parse-Server "back4app".
  </p>
 + User List Activiy.
 <p align="center">
-![](Capture+_2018-07-25-10-41-32.png)
+<img src = "Capture+_2018-07-25-10-41-32.png"/>
  </p>
 + User Profile Feeds.
 <p align="center">
