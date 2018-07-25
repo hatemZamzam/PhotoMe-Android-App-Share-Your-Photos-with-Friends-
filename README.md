@@ -9,11 +9,11 @@ The backend programming and database based on Parse-Server "back4app".
  </p>
 + Friends Feeds Activity.
 <p align="center">
-<img src = "https://drive.google.com/open?id=1Ahq1B1rJeYmm3_dE6n_uAdR_cDDXFMeZ"/>
+<img src = "PhotoMe-Android-App-Share-Your-Photos-with-Friends-/Capture+_2018-07-25-10-40-36.png"/>
  </p>
 + User List Activiy.
 <p align="center">
-<img src = "https://drive.google.com/open?id=12n_Q0rxgFTEBtCKc0VW_n8Z9br3RghQi"/>
+<img src = "PhotoMe-Android-App-Share-Your-Photos-with-Friends-/Capture+_2018-07-25-10-41-32.png"/>
  </p>
 + User Profile Feeds.
 <p align="center">
