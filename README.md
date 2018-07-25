@@ -5,11 +5,11 @@ The backend programming and database based on Parse-Server "back4app".
 ## The App consists of 6 activities till now:
 + LogIn/SignUP Acitivity.
 <p align="center">
-<img src = "https://drive.google.com/open?id=1h6tOGCYLlfqwokQpNrRhUJGvVEfrfq6d"/>
+<img src = "login.jpg" width = "300"/>
  </p>
 + Friends Feeds Activity.
 <p align="center">
-<img src = "PhotoMe-Android-App-Share-Your-Photos-with-Friends-/Capture+_2018-07-25-10-40-36.png"/>
+<img src = "Capture+_2018-07-25-10-40-36.png" width = "300"/>
  </p>
 + User List Activiy.
 <p align="center">
