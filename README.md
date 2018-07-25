@@ -7,7 +7,7 @@ The backend programming and database based on Parse-Server "back4app".
 <p align="center">
 <img src = "login.JPG" width = "300"/>
  </p>
-### Friends Feeds Activity:
+### Friends Feeds Activity.
 + Preview images posts of the users you follow.
 + To see next new images, press on ">" arrow button.
 + To see previous images, press on "<" arrow button.
@@ -18,33 +18,33 @@ The backend programming and database based on Parse-Server "back4app".
 <p align="center">
 <img src = "Capture+_2018-07-25-10-40-36.png" width = "300"/>
  </p>
-### User List Activiy:
-- this activity shows all the users of the app, and sorting them by createdAt users.
-- When click on any user in the listview, it shows his/her profile.
-- Logout button to sign out of your account.
-- "Share" Button to direct post a photo from your gallery.
+### User List Activiy.
++ this activity shows all the users of the app, and sorting them by createdAt users.
++ When click on any user in the listview, it shows his/her profile.
++ Logout button to sign out of your account.
++ "Share" Button to direct post a photo from your gallery.
 <p align="center">
 <img src = "Capture+_2018-07-25-10-41-32.png" width = "300"/>
  </p>
-### User Profile Feeds:
-- Preview images of current opened user profile.
-- "Back" button to get back to friends activity.
-- "chat" button, to go to chat activity for messaging with current user friend.
-- "Follow/Unfollow" button, to follow or unfollow a user to follow his/her images posts.
+### User Profile Feeds.
++ Preview images of current opened user profile.
++ "Back" button to get back to friends activity.
++ "chat" button, to go to chat activity for messaging with current user friend.
++ "Follow/Unfollow" button, to follow or unfollow a user to follow his/her images posts.
 <p align="center">
 <img src = "Capture+_2018-07-25-10-42-14.png" width = "300"/>
  </p>
-### Chat Acitivty: (regular messaging Not live yet).
-- An edit text field to write text in it.
-- "Send" button, to send written text to this opened user profile.
+### Chat Acitivty (regular messaging Not live yet).
++ An edit text field to write text in it.
++ "Send" button, to send written text to this opened user profile.
 <p align="center">
 <img src = "Capture+_2018-07-25-10-42-38.png" width = "300"/>
  </p>
 ### Share Photo Activity.
-- When click on add photo image, it switch you to your gallery to choose the image you want to share.
-- "Post" button, to share the selected image with friends,
-- "Cancel" to get back to friends feeds activity without sharing anything.
-- Small camera images to add effects to the selected image (but it hasn't beed done yet searching for nice effects :p :D).
++ When click on add photo image, it switch you to your gallery to choose the image you want to share.
++ "Post" button, to share the selected image with friends,
++ "Cancel" to get back to friends feeds activity without sharing anything.
++ Small camera images to add effects to the selected image (but it hasn't beed done yet searching for nice effects :p :D).
 <p align="center">
 <img src = "sharephoto.JPG" width = "300"/>
  </p>
