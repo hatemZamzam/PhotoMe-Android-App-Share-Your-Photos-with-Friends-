@@ -4,8 +4,26 @@ The backend programming and database based on Parse-Server "back4app".
 
 ## The App consists of 6 activities till now:
 + LogIn/SignUP Acitivity.
+<p align="center">
+<img src = "https://drive.google.com/open?id=1h6tOGCYLlfqwokQpNrRhUJGvVEfrfq6d"/>
+ </p>
 + Friends Feeds Activity.
+<p align="center">
+<img src = "https://drive.google.com/open?id=1Ahq1B1rJeYmm3_dE6n_uAdR_cDDXFMeZ"/>
+ </p>
 + User List Activiy.
+<p align="center">
+<img src = "https://drive.google.com/open?id=12n_Q0rxgFTEBtCKc0VW_n8Z9br3RghQi"/>
+ </p>
 + User Profile Feeds.
+<p align="center">
+<img src = "https://drive.google.com/open?id=19m10JNWydvhdgzit8eoY4FbjXZyyDvMl"/>
+ </p>
 + Chat Acitivty (regular messaging Not live yet).
+<p align="center">
+<img src = "https://drive.google.com/open?id=1Bnq6GRiCJxXXTPG-Du37l7tNmnGAZtGK"/>
+ </p>
 + Share Photo Activity.
+<p align="center">
+<img src = "https://drive.google.com/open?id=1xFglK7po2SGVwYW6iNEd2FxVUGEfde5B"/>
+ </p>
