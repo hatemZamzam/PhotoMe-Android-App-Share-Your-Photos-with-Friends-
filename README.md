@@ -8,6 +8,9 @@ The backend programming and database based on Parse-Server "back4app".
 <img src = "login.JPG" width = "300"/>
  </p>
 ### Friends Feeds Activity.
+<p align="center">
+<img src = "Capture+_2018-07-25-10-40-36.png" width = "300"/>
+ </p>
 + Preview images posts of the users you follow.
 + To see next new images, press on ">" arrow button.
 + To see previous images, press on "<" arrow button.
@@ -15,9 +18,7 @@ The backend programming and database based on Parse-Server "back4app".
 + Switch between activities with the bar of buttons on the top of screen.
 + Like photos property is working.
 + Comment on image hasn't been done yet.
-<p align="center">
-<img src = "Capture+_2018-07-25-10-40-36.png" width = "300"/>
- </p>
+
 ### User List Activiy.
 + this activity shows all the users of the app, and sorting them by createdAt users.
 + When click on any user in the listview, it shows his/her profile.
