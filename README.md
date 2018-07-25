@@ -5,7 +5,7 @@ The backend programming and database based on Parse-Server "back4app".
 ## The App consists of 6 activities till now:
 + LogIn/SignUP Acitivity.
 <p align="center">
-<img src = "login.jpg" width = "300"/>
+<img src = "login.JPG" width = "300"/>
  </p>
 + Friends Feeds Activity.
 <p align="center">
